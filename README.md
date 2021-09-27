@@ -14,7 +14,7 @@
   - Robotics(using Arduino and Raspberry pi)
   - Machine Learning
   - Technology
-  - And also other things like Lawn Tennis, Science(Escpecially Physics)
+  - And also other things like Lawn Tennis, Football, Badminton, Table Tennis, Science(Escpecially Physics), Painting and Arts
 - 🌱 I’m currently learning React and MERN Stack
 
 <!---
