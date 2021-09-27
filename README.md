@@ -1,6 +1,21 @@
 - 👋 Hi, I’m @Ayush181005
-- 👀 I’m interested in programming in C, C++, Web development in Django, Flask, HTML-CSS-JS, Node JS, and React, Python
-- 🌱 I’m currently learning React
+- 👀 I’m interested in
+  - C
+  - C++
+  - HTML-CSS
+  - Javascript
+  - Node JS
+  - React JS
+  - Java
+  - Python
+  - Android Development
+  - Game Development
+  - Web Development
+  - Robotics(using Arduino and Raspberry pi)
+  - Machine Learning
+  - Technology
+  - And also other things like Lawn Tennis, Science(Escpecially Physics)
+- 🌱 I’m currently learning React and MERN Stack
 
 <!---
 Ayush181005/Ayush181005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
