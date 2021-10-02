@@ -14,8 +14,8 @@
   - Robotics(using Arduino and Raspberry pi)
   - Machine Learning
   - Technology
-  - And also other things like Lawn Tennis, Football, Badminton, Table Tennis, Science(Escpecially Physics), Painting and Arts
-- 🌱 I’m currently learning React and MERN Stack
+  - And also other things like Lawn Tennis, Football, Badminton, Table Tennis, Science, Painting and Arts
+<!----- 🌱 I’m currently learning React and MERN Stack---->
 
 <!---
 Ayush181005/Ayush181005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
