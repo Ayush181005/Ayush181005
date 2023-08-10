@@ -8,6 +8,8 @@
   - React JS
   - Java
   - Python
+  - PHP
+  - Ruby
   - Android Development
   - Game Development
   - Web Development
